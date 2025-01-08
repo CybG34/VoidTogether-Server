@@ -1,9 +1,9 @@
 properties:
   information:
     # This is the name that displays to all players
-    name: "A VoidTogether Server"
+    name: "Cyberlin private server"
     # This is the Message that is Displayed alongside your server.
-    motd: "This is a Server MOTD"
+    motd: "Haii august"
     # This is the Client Version required to join
     clientVersion: "0.0.1"
     # Specify a Host IP, optional, can be left blank
@@ -15,7 +15,7 @@ properties:
     # The Map used in unreal engine. untitled_1 for the normal map (NOT SUPPORTED FULLY YET), MP_Construct for sandbox.
     defaultMap: "MP_Construct"
     # The Password Required to Connect to this Server. Leave blank to allow anyone to connect.
-    password: 
+    password: gwuh
     # Prefix used for Signifying Commands
     commandPrefix: "!"
     # Tickrate - Highly recommend to keep this at 10
